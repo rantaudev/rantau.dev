@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-tailwind",
-  "description": "Gatsby starter styled with Tailwind",
-  "version": "4.0.0",
-  "author": "Taylor Bryant <taylor@bryant.io>",
+  "name": "rantaudev",
+  "description": "Main Website Rantaudev",
+  "version": "0.1.0",
+  "author": "Muhammad Irwan Andriawn <andriawan@rantau.dev>",
   "dependencies": {
     "gatsby": "2.23.1",
     "gatsby-plugin-manifest": "2.4.10",
@@ -19,7 +19,8 @@
     "gatsby",
     "tailwind",
     "tailwindcss",
-    "purgecss"
+    "purgecss",
+    "rantaudev"
   ],
   "license": "MIT",
   "scripts": {
